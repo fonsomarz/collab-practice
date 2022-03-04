@@ -1,0 +1,11 @@
+.BOX1 {
+border: solid 5px black;
+background-color: aqua;
+height: 500px;
+}
+
+.BOX2 {
+    border: solid 5px blue;
+    background-color: bisque;
+    height: 500px;
+    }
